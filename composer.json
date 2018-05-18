@@ -1,0 +1,6 @@
+{
+    "name": "ruslan/5.1-composer",
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
